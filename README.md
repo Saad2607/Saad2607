@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hey, I'm Saad Shaikh
+# 👋 Hey, I'm Mohammed Saad Shaikh
 
 💻 Full Stack Developer (MERN)  
 📱 Flutter Developer  
