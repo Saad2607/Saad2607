@@ -27,11 +27,16 @@
 ---
 
 ## 🧠 About Me
-- 💼 Android Developer Intern @ Tenup Software (3 Months)  
-- 📱 Built apps using Flutter + Firebase  
-- 🌐 Strong in MERN Stack Development  
-- 🔐 Currently building **Secure File Vault (Encrypted Storage System)**  
-- 🎯 Goal: Build impactful tech products & startups  
+
+💻 I am a **Full Stack Developer (MERN)** with experience in building scalable web and mobile applications.  
+🚀 I focus on solving **real-world problems** through practical and efficient solutions.  
+
+- Completed a **3-month internship as Android Developer @ TenUp Software**  
+- Built multiple applications using **Flutter & Firebase**  
+- Strong experience in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+- Currently working on a **Secure File Vault (End-to-End Encrypted Storage System)**  
+- Exploring **AI-based solutions & gesture control systems**  
+- Goal: To build impactful products and grow as a **software engineer & startup founder**  
 
 ---
 
