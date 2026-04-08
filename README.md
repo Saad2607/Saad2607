@@ -22,7 +22,7 @@
 🔗 **Visit My Portfolio:** https://portfolio-saad-shaikh.vercel.app
 
 ## 📄 Resume
-📥 [Download My Resume](https://drive.google.com/file/d/1jw3dgqtcgf2sTs1jn6p8ashHOqllxoX4/view?usp=drive_link)
+📥 [Download My Resume](https://drive.google.com/file/d/1OGkltWjWVMPZDrKWzX5dYbHwrOa9_tCL/view?usp=drive_link)
 
 ---
 
