@@ -107,8 +107,7 @@
 ## 🔥 Current Focus
 
 - 🚀 Building industry-level MERN applications  
-- 🤖 Exploring AI-based solutions  
-- 💡 Startup: Gesture Control Systems  
+- 🤖 Exploring AI-based solutions    
 - 🔐 Learning advanced security & encryption  
 
 ---
