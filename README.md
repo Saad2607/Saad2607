@@ -62,10 +62,10 @@
 
 ---
 
-### 🔐 Secure File Vault (Ongoing)  
-→ Encrypted file storage system  
-🔗 GitHub: Coming Soon  
-🌐 Live: Coming Soon  
+### 🔐 Secure File Vault  
+→ A full-stack cloud file storage platform inspired by Google Drive, built with secure authentication and cloud integration.  
+🔗 GitHub: https://github.com/Saad2607/secure-file-vault  
+🌐 Live: https://secure-file-vault-sigma.vercel.app/  
 
 ---
 
